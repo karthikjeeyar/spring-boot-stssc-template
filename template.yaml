@@ -80,7 +80,7 @@ spec:
                   title: Image Host
                   type: string
                   description: Host for storing image
-                  default: quay-k85wv.apps.cluster-ptcgv.sandbox2654.opentlc.com
+                  default: quay-ptcgv.apps.cluster-ptcgv.sandbox2654.opentlc.com
                 image_organization:
                   title: Organization
                   type: string
